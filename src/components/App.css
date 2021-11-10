@@ -1,0 +1,17 @@
+body {
+  background: white;
+}
+
+@font-face {
+  font-family: 'MyFont';
+  src: url('../../fonts/Carlo_Melow_Font_by_7NTypes.otf') format('otf'),
+    url('../../fonts/Carlo_Melow_Sans_by_7NTypes.otf') format('otf');
+  font-weight: 600;
+  font-style: normal;
+}
+
+.div {
+  color: grey;
+  font-family: 'MyFont';
+  background: url('./icon.png');
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkphoto_gate=self.webpackChunkphoto_gate||[]).push([[647],{647:(e,t,a)=>{a.r(t),a.d(t,{default:()=>p});var n=a(985),l=a.n(n);const p=()=>l().createElement("div",null,l().createElement("input",{type:"text"}))}}]);
