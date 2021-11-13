@@ -1,5 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
+import Search from './components/Search';
 
-ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<Search />, document.getElementById('root'));

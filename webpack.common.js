@@ -11,7 +11,9 @@ module.exports = {
       name: "Search",
       filename: "main.bundle.js",
       remotes: {},
-      exposes: {},
+      exposes: {
+        './Search': './src/components/Search.tsx'
+      },
       shared: {
         ...deps,
         react: {
